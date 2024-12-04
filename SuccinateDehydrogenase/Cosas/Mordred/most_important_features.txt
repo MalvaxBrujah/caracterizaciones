@@ -1,0 +1,10 @@
+ATSC0pe: centered ATS descriptor.
+AATS8are: averaged ATS descriptor.
+Xc-3d: chi descriptor.
+ATS2s: Autocorrelation of Topological Structure descriptor.
+SM1_Dzse: barysz matrix descriptor.
+SM1_Dzare: barysz matrix descriptor.
+ATS0s: Autocorrelation of Topological Structure descriptor.
+ATSC0i: centered ATS descriptor.
+SM1_Dzpe: barysz matrix descriptor.
+SM1_Dzi: barysz matrix descriptor.
